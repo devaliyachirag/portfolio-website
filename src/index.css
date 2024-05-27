@@ -1,0 +1,64 @@
+*{
+  box-sizing: border-box;
+}
+h2,
+p {
+  padding: 0;
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #1D1E24 !important;
+  
+}
+/* div{
+  animation-name: slideInLeft;
+  animation-duration: 2s;
+  animation-iteration-count: 1;
+} */
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+  color: #252323;
+}
+@-webkit-keyframes slideInLeft {
+  from {
+    -webkit-transform: translate3d(-10%, 0, 0);
+    transform: translate3d(-10%, 0, 0);
+    visibility: visible;
+  }
+
+  to {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes slideInLeft {
+  from {
+    -webkit-transform: translate3d(-10%, 0, 0);
+    transform: translate3d(-10%, 0, 0);
+    visibility: visible;
+  }
+
+  to {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
