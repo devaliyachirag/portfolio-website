@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.cee7c1f3.css",
+    "main.js": "/portfolio-website/static/js/main.86919e31.js",
+    "static/js/453.ace21015.chunk.js": "/portfolio-website/static/js/453.ace21015.chunk.js",
+    "static/media/image1.png": "/portfolio-website/static/media/image1.73564d84b6b8289a5fc9.png",
+    "static/media/image2.png": "/portfolio-website/static/media/image2.1e5443b3a33728ee83bb.png",
+    "static/media/image3.png": "/portfolio-website/static/media/image3.e90a5c93ccd42746ca6e.png",
+    "static/media/background.jpg": "/portfolio-website/static/media/background.e552e790cbf3d926a047.jpg",
+    "static/media/work-image6.png": "/portfolio-website/static/media/work-image6.c36ff889f25d996b4bf9.png",
+    "static/media/work-image3.png": "/portfolio-website/static/media/work-image3.29c34c26c0fc01df05b4.png",
+    "static/media/work-image1.png": "/portfolio-website/static/media/work-image1.97220513ad80527bea8d.png",
+    "static/media/work-image5.png": "/portfolio-website/static/media/work-image5.73e457e12589565c7926.png",
+    "static/media/work-image2.png": "/portfolio-website/static/media/work-image2.11608817417603b90f60.png",
+    "static/media/work-image4.png": "/portfolio-website/static/media/work-image4.df76b63d583eb0bd0473.png",
+    "static/media/about-2.jpg": "/portfolio-website/static/media/about-2.47afaee4f22f220db6d5.jpg",
+    "static/media/contact.png": "/portfolio-website/static/media/contact.6e2a7c003fdbf6acd374.png",
+    "static/media/thumbnail.png": "/portfolio-website/static/media/thumbnail.0fe292de4836f11676e8.png",
+    "static/media/eye.svg": "/portfolio-website/static/media/eye.3571e0995d7fa2560b39622b5703bfe5.svg",
+    "static/media/instagram.svg": "/portfolio-website/static/media/instagram.213df88fbfeb31b5c07d05e8004bea13.svg",
+    "index.html": "/portfolio-website/index.html",
+    "static/media/facebook.svg": "/portfolio-website/static/media/facebook.d3b2d32732ee368342b745ccb5ef9f80.svg",
+    "static/media/linkedin.svg": "/portfolio-website/static/media/linkedin.5ad88d7695a433ca87a7fdd74ada1d26.svg",
+    "static/media/heart.svg": "/portfolio-website/static/media/heart.2575baf0c54caea149cfae1775ae130d.svg",
+    "main.cee7c1f3.css.map": "/portfolio-website/static/css/main.cee7c1f3.css.map",
+    "main.86919e31.js.map": "/portfolio-website/static/js/main.86919e31.js.map",
+    "453.ace21015.chunk.js.map": "/portfolio-website/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cee7c1f3.css",
+    "static/js/main.86919e31.js"
+  ]
+}
