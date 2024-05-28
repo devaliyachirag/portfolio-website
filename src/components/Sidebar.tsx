@@ -19,21 +19,12 @@ const List = styled.ul({
   padding: "20px 15px",
   margin: 0,
   listStyleType: "none",
-  // "@media screen and (max-width: 1400px)": {
-  //   bottom:10,
-  //   position:'sticky',
-  //   display:'flex',
-  //   flexDirection: "row",
-  //   flexWrap:'wrap',
-  //   justifyContent:'space-between',
-  //     padding: 0,
-  // },
   "@media screen and (max-width: 768px)": {
     display: "flex",
     flexDirection: "row",
     justifyContent:'space-between',
     flexWrap:'wrap',
-    // padding:0
+    width:'100%'
   },
 });
 
@@ -46,12 +37,6 @@ const ListItem = styled.li<{ isActive: boolean }>(({ isActive }) => ({
   "&:hover": {
     backgroundColor: "#f9004d",
   },
-  "@media screen and (max-width: 1400px)": {
-    padding: "10px 20px",
-  },
-  // "@media screen and (max-width: 600px)": {
-    //   padding: "10px 20px",
-    // },
   }));
   
   const SideButton = styled.button({
@@ -59,13 +44,16 @@ const ListItem = styled.li<{ isActive: boolean }>(({ isActive }) => ({
   border: 0,
   background: "none",
   color: "white",
-  // padding: "15px 0",
   fontSize: "18px",
   cursor: "pointer",
   width: "100%",
   "@media screen and (max-width: 768px)": {
-    padding: "10px 0",
+    padding: "15px",
     fontSize: "16px",
+  },
+  "@media screen and (max-width: 400px)": {
+    padding: "10px",
+    fontSize: "10px",
   },
 });
 

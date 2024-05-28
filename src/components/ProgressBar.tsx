@@ -28,7 +28,7 @@ const ProgressBg = styled.div({
     "inset 8px 8px 16px rgba(0, 0, 0, 0.4588235294), inset -8px -8px 16px rgba(56, 62, 69, 0.4588235294)",
 });
 const Bar = styled.div<{ width: string }>(({ width }) => ({
-  width: width,
+  maxWidth: width,
   height: 7,
   overflow: "visible",
   position: "relative",

@@ -75,6 +75,12 @@ const SideWrap = styled.div({
     top: 0,
     marginBottom:40,
   },
+  "@media screen and (max-width: 400px)": {
+    maxHeight: '80px',
+    position: "relative",
+    top: 0,
+    marginBottom:40,
+  },
 });
 
 const RouteWrap = styled.div({
